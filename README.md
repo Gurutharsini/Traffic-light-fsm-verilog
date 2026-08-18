@@ -165,9 +165,7 @@ A RED    + B YELLOW
 Repeat
 ```
 
-### Simulation Waveform
 
-![Simulation Waveform](waveform.png)
 
 ---
 
@@ -182,9 +180,7 @@ The synthesized design contains logic elements such as:
 * Combinational logic
 * I/O resources
 
-### RTL Schematic
 
-![RTL Schematic](synthesis.png)
 
 ---
 
@@ -198,9 +194,7 @@ The synthesized design was analyzed using the Vivado Utilization Report.
 | Flip-Flop |    4 |   126,800 |       0.00% |
 | I/O       |    8 |       210 |       3.81% |
 
-### Utilization Report
 
-![Utilization Report](utilization.png)
 
 The design requires very few FPGA resources because it is a small FSM-based digital controller.
 
