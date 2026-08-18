@@ -167,7 +167,7 @@ Repeat
 
 ### Simulation Waveform
 
-![Simulation Waveform](screenshots/waveform.png)
+![Simulation Waveform](waveform.png)
 
 ---
 
@@ -184,7 +184,7 @@ The synthesized design contains logic elements such as:
 
 ### RTL Schematic
 
-![RTL Schematic](screenshots/rtl_schematic.png)
+![RTL Schematic](synthesis.png)
 
 ---
 
@@ -200,7 +200,7 @@ The synthesized design was analyzed using the Vivado Utilization Report.
 
 ### Utilization Report
 
-![Utilization Report](screenshots/utilization.png)
+![Utilization Report](utilization.png)
 
 The design requires very few FPGA resources because it is a small FSM-based digital controller.
 
